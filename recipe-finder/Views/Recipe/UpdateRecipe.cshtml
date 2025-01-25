@@ -1,0 +1,13 @@
+@model RecipeModel
+
+@{
+    ViewData["Title"]=$"Update {@Model.Title}";
+}
+
+<form method="post" asp-action="UpdateAsync" asp-controller="Recipe">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <input type="text" placeholder="Enter updated recipe title" name="Title" value="@Model.Title" required />
+    <textarea name="ingredients" placeholder="Enter Recipe Ingredients delimit with a semi colon" required>@Model.ingredients</textarea>
+    <textarea name="Instructions" placeholder="Enter Recipe Instructions Delimit with A semi Colon" required>@Model.Instructions</textarea>
+    <input type="submit" value="Update" />
+</form>

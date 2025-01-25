@@ -1,3 +1,13 @@
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.csproj.AssemblyReference.cache
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.AssemblyInfoInputs.cache
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.AssemblyInfo.cs
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.csproj.CoreCompileInputs.cache
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.RazorAssemblyInfo.cache
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.RazorAssemblyInfo.cs
+C:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.sourcelink.json
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\appsettings.Development.json
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\appsettings.json
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\recipe-finder.staticwebassets.runtime.json
@@ -123,15 +133,6 @@ c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\runtimes\win-arm\nat
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 c:\Users\ashle\recipe-finder\recipe-finder\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.csproj.AssemblyReference.cache
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.AssemblyInfoInputs.cache
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.AssemblyInfo.cs
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.csproj.CoreCompileInputs.cache
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.MvcApplicationPartsAssemblyInfo.cs
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.MvcApplicationPartsAssemblyInfo.cache
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.RazorAssemblyInfo.cache
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.RazorAssemblyInfo.cs
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\scopedcss\bundle\recipe-finder.styles.css
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\scopedcss\projectbundle\recipe-finder.bundle.scp.css
@@ -276,4 +277,3 @@ c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\refint\recipe-finder
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.pdb
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.genruntimeconfig.cache
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\ref\recipe-finder.dll
-c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.sourcelink.json

@@ -7,7 +7,7 @@
 <div>
     <h1>Title: @Model.Title</h1>
     <hr/>
-    <p>Ingredients</p>
+    <h2>Ingredients</h2>
     <ul>
         @{
             var ingredients=Model.ingredients.Split(";");
@@ -17,7 +17,7 @@
         }
     </ul>
     <hr/>
-    <p>Instructions</p>
+    <h2>Instructions</h2>
     <ul>
         @{
             var instructions=Model.Instructions.Split(";");
@@ -27,4 +27,5 @@
         }
     </ul>
     <hr/>
+    <a asp-action="UpdateRecipe"  asp-controller="Recipe" asp-route-id="@Model.Id">Edit</a>
 </div>    
