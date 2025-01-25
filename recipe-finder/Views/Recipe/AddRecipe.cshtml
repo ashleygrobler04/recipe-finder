@@ -1,0 +1,10 @@
+@{
+    ViewData["Title"]="Create new recipe";
+}
+
+<form method="post" action="/Recipe/Create">
+    <input type="text" placeholder="Enter recipe title" name="Title" required/>
+    <textarea name="Ingredients" placeholder="Enter RecipeIngredients " required></textarea>
+    <textarea name="Instructions" placeholder="Enter Recipe Ingredients " required></textarea>
+    <input type="submit" value="Create"/>
+</form>

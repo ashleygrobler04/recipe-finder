@@ -1,0 +1,25 @@
+@using recipe_finder.Data;
+@inject ApplicationDbContext context;
+
+@{
+    ViewData["Title"] = "Recipes";
+}
+
+<div>
+    <h1>List all recipes</h1>
+    <p>Find all created recipes</p><br />
+    <ul>
+        @{
+            var allRecipes = context.recipeModels.ToList();
+            if (allRecipes != null && allRecipes.Any()) {
+                foreach (var r in allRecipes) {
+                    <li>
+                        <a href="@Url.Action("RecipeView", "Recipe", new { id = r.Id })">
+                            @r.Title
+                        </a>
+                    </li>
+                }
+            }
+        }
+    </ul>
+</div>

@@ -1,0 +1,14 @@
+@model RecipeModel
+
+@{
+    ViewData["Title"]=Model.Title;
+}
+
+<div>
+    <h1>Title: @Model.Title</h1>
+    <hr/>
+    <p>Ingredients: @Model.ingredients</p>
+    <hr/>
+    <p>Instructions: @Model.Instructions</p>
+    <hr/>
+</div>    
