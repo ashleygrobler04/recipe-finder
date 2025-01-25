@@ -276,3 +276,4 @@ c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\refint\recipe-finder
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.pdb
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.genruntimeconfig.cache
 c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\ref\recipe-finder.dll
+c:\Users\ashle\recipe-finder\recipe-finder\obj\Debug\net9.0\recipe-finder.sourcelink.json

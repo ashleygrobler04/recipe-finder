@@ -7,8 +7,24 @@
 <div>
     <h1>Title: @Model.Title</h1>
     <hr/>
-    <p>Ingredients: @Model.ingredients</p>
+    <p>Ingredients</p>
+    <ul>
+        @{
+            var ingredients=Model.ingredients.Split(";");
+            foreach(var i in ingredients) {
+                <li>@i</li>
+            }
+        }
+    </ul>
     <hr/>
-    <p>Instructions: @Model.Instructions</p>
+    <p>Instructions</p>
+    <ul>
+        @{
+            var instructions=Model.Instructions.Split(";");
+            foreach (var i in instructions) {
+                <li>@i</li>
+            }
+        }
+    </ul>
     <hr/>
 </div>    
