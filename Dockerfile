@@ -6,9 +6,12 @@ EXPOSE 5090
 # Use the .NET SDK image for building the app
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 WORKDIR /recipe-finder
-COPY ["recipe-finder/recipe-finder.csproj", "recipe-finder/"]
+
+# Adjust the path to match the actual location of your .csproj file
+COPY recipe-finder/recipe-finder.csproj recipe-finder/
 RUN dotnet restore "recipe-finder/recipe-finder.csproj"
-COPY . . 
+
+COPY . .
 WORKDIR "/recipe-finder/recipe-finder"
 RUN dotnet build "recipe-finder.csproj" -c Release -o /recipe-finder/build
 
