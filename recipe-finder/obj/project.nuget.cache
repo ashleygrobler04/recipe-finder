@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jIML724XaKQ=",
+  "dgSpecHash": "APxevysxLow=",
   "success": true,
   "projectFilePath": "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj",
   "expectedPackageFiles": [
@@ -60,7 +60,8 @@
     "C:\\Users\\ashle\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Users\\ashle\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\ashle\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
-    "C:\\Users\\ashle\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\ashle\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.1\\microsoft.netcore.app.host.linux-x64.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }
