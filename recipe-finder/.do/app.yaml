@@ -1,0 +1,6 @@
+name: recipe-finder
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: ashleygrobler04/recipe-finder
+  name: recipe-finder
