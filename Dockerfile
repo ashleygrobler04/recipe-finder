@@ -1,27 +1,16 @@
-# Use the official ASP.NET runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
-WORKDIR /recipe-finder
+FROM mcr.microsoft.com/dotnet/sdk:9.0@sha256:3fcf6f1e809c0553f9feb222369f58749af314af6f063f389cbd2f913b4ad556 AS build
 EXPOSE 5090
+WORKDIR /App
 
-# Use the .NET SDK image for building the app
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-WORKDIR /app
+# Copy everything
+COPY . ./
+# Restore as distinct layers
+RUN dotnet restore
+# Build and publish a release
+RUN dotnet publish -o out
 
-# Copy the .csproj file to the build context and restore dependencies
-COPY recipe-finder/recipe-finder.csproj ./recipe-finder/
-RUN dotnet restore ./recipe-finder/recipe-finder.csproj
-
-# Copy the rest of the files and build the app
-COPY . .
-WORKDIR /app/recipe-finder
-RUN dotnet build recipe-finder.csproj -c Release -o /app/build
-
-# Publish the app
-FROM build AS publish
-RUN dotnet publish recipe-finder.csproj -c Release -o /app/publish /p:UseAppHost=false
-
-# Create the final runtime image
-FROM base AS final
-WORKDIR /recipe-finder
-COPY --from=publish /app/publish .
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:9.0@sha256:b4bea3a52a0a77317fa93c5bbdb076623f81e3e2f201078d89914da71318b5d8
+WORKDIR /App
+COPY --from=build /App/out .
 ENTRYPOINT ["dotnet", "recipe-finder.dll"]
