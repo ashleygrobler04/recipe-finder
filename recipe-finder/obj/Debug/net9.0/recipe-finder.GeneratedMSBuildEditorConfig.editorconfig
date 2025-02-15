@@ -17,69 +17,69 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = recipe_finder
 build_property.RootNamespace = recipe_finder
-build_property.ProjectDir = C:\Users\ashle\recipe-finder\recipe-finder\
+build_property.ProjectDir = C:\users\ashle\recipe-finder\recipe-finder\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ashle\recipe-finder\recipe-finder
+build_property.MSBuildProjectDirectory = C:\users\ashle\recipe-finder\recipe-finder
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Home/Index.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Home/Privacy.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Recipe/AddRecipe.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Recipe/AddRecipe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXEFkZFJlY2lwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Recipe/Create.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Recipe/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Recipe/Index.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Recipe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Recipe/RecipeView.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Recipe/RecipeView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXFJlY2lwZVZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Recipe/UpdateRecipe.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Recipe/UpdateRecipe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjaXBlXFVwZGF0ZVJlY2lwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Shared/Error.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Shared/_LoginPartial.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/_ViewImports.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/_ViewStart.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ashle/recipe-finder/recipe-finder/Views/Shared/_Layout.cshtml]
+[C:/users/ashle/recipe-finder/recipe-finder/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fnczjg6xg7

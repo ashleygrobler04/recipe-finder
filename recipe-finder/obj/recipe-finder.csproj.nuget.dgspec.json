@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj": {}
+    "C:\\users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj": {
+    "C:\\users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj",
+        "projectUniqueName": "C:\\users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj",
         "projectName": "recipe-finder",
-        "projectPath": "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj",
+        "projectPath": "C:\\users\\ashle\\recipe-finder\\recipe-finder\\recipe-finder.csproj",
         "packagesPath": "C:\\Users\\ashle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashle\\recipe-finder\\recipe-finder\\obj\\",
+        "outputPath": "C:\\users\\ashle\\recipe-finder\\recipe-finder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
